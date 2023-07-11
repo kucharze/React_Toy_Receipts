@@ -4,6 +4,7 @@ function Toyorders(props) {
   return (
     <div className='order'>
       <h1>{props.toys.name}</h1>
+      <p>Time of order: {props.toys.time}</p>
       <ul>
         {
             props.toys.order.map((x)=>{
