@@ -12,6 +12,7 @@ function Toyorders(props) {
             })
         }
       </ul>
+      <h2>Total Items: {props.toys.order.length}</h2>
       <h2>Cost: ${props.toys.cost}</h2>
       
     </div>

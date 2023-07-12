@@ -1,8 +1,8 @@
 const order1 = {
   name: "Zachary",
   time: "4:55pm",
-  order: ["Thomas the train", "Lincoln Logs", "Model train tracks"],
-  cost: 15,
+  order: ["Thomas the train", "Lincoln Logs", "Model train tracks", "Toy cars"],
+  cost: 18,
 };
 
 const order2 = {
