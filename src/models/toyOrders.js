@@ -2,7 +2,7 @@ const order1 = {
   name: "Zachary",
   time: "4:55pm",
   order: ["Thomas the train", "Lincoln Logs", "Model train tracks", "Toy cars"],
-  cost: 18,
+  cost: 25,
 };
 
 const order2 = {
