@@ -27,8 +27,8 @@ const order3 = {
 const order4 = {
   name: "Rachel",
   time: "12:30pm",
-  order: ["Babie Dolls", "Barbie house"],
-  cost: 12,
+  order: ["Babie Dolls", "Barbie house", "Toy tea cup set"],
+  cost: 20,
 };
 
 module.exports = [order1, order2, order3, order4];
